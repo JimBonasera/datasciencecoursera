@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-A few test files to demonstrate Push from Git to Github
+A few test files to demonstrate push from Git to Github
